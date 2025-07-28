@@ -1,43 +1,24 @@
-<h1 align="center">Hi 👋, I'm Amna Mohsin</h1>
+<h1 align="center">Hi, I'm Amna Mohsin</h1>
 <h3 align="center">Frontend Developer | Learning Full Stack | Open to Internships</h3>
 
 ---
-
-## 🧠 About Me
-
-🎓 I'm currently pursuing Computer Science at NED University  
-💻 Passionate about building clean and interactive web experiences  
-🔭 Currently working on real-world frontend projects and games  
-🌱 Learning Full Stack development with React, Node.js, and MongoDB  
-🤝 Open to collaboration on creative frontend projects and internship roles  
+## About Me
+I'm currently pursuing a degree in Computer Science at NED University, with a strong passion for creating clean, responsive, and engaging web experiences. I specialize in frontend development and love turning ideas into user-friendly interfaces. Right now, I'm working on several real-world projects and JavaScript-based games to sharpen my skills. Alongside frontend work, I'm diving into Full Stack development with technologies like React, Node.js, and MongoDB. I'm always open to collaborative opportunities—especially those that allow me to grow as a developer while contributing meaningfully to innovative projects or internships.
 
 ---
 
-## 💼 Developer Portfolio
-
-A personal portfolio site showcasing my skills, GitHub activity, tools, and technologies I'm learning.  
-✅ **Responsive** | ⚡ **Animated** | 🤝 **Recruiter & Contributor Friendly**
-
-> 📍 Portfolio Link: [Coming Soon]
-
----
-
-## 🚀 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amna-mohsin&show_icons=true&theme=tokyonight" height="180"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-mohsin&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
-## 🐍 GitHub Contributions Snake
-
-![snake gif](https://github.com/amna-mohsin/amna-mohsin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 💻 Technologies I Use
+## Technologies I Use
 
 | Languages & Tools | Icons |
 |-------------------|-------|
@@ -45,42 +26,43 @@ A personal portfolio site showcasing my skills, GitHub activity, tools, and tech
 | CSS3              | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
 | JavaScript        | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | React             | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| Node.js           | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
-| Tailwind CSS      | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
 | Bootstrap         | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) |
 | Git & GitHub      | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
 ---
 
-## 🧩 Projects
+## Projects
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
 | Rock Paper Scissors Game | A responsive and fun game with reset and score tracking | [Play Now](https://rock-paper-scissor-a.netlify.app) |
-| Portfolio Website | Personal developer portfolio (in progress) | Coming Soon |
+| Portfolio Website | Personal developer portfolio | [View](https://vermillion-praline-15e750.netlify.app/) |
+| Random Quote Generator | A colorful and responsive quote generator website | [View](https://random-quote-website.netlify.app/) |
+| School Website | A responsive school website with a clean UI and structured sections | [View](https://learnify-hub.netlify.app/) | 
+| View More Projects | Explore all my repositories and latest work | [GitHub Profile](https://github.com/amna-mohsin) |
+
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Full Stack Web Development (React, Node, MongoDB)
-- Responsive UI design with Tailwind and GSAP
+- Responsive UI design with Tailwind
 - JavaScript game projects
 - Git, GitHub workflow & collaboration
 - Backend fundamentals (Express.js & APIs)
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- ⭐ Built 5+ frontend mini-projects with HTML, CSS, and JS  
-- 📈 Improving GitHub presence and learning through open-source  
-- 🔁 Actively contributing to personal and team projects  
-- 💬 Attending Saylani Web & App Development Course  
+- Built 3+ frontend mini-projects with HTML, CSS, and JS  
+- Improving GitHub presence and learning through open-source   
+- Attending Saylani Web & App Development Course  
 
 ---
 
-## 🤝 Collaboration Interests
+##  Collaboration Interests
 
 - Frontend UI/UX enhancement projects  
 - Fun interactive games with JS  
@@ -89,22 +71,26 @@ A personal portfolio site showcasing my skills, GitHub activity, tools, and tech
 
 ---
 
-## 🌐 Contact & Social Links
+## Contact & Social Links
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [amna@example.com](mailto:amna@example.com) |
-| 🌐 GitHub | [github.com/amna-mohsin](https://github.com/amna-mohsin) |
-| 🔗 LinkedIn | [linkedin.com/in/your-link](https://linkedin.com/in/your-link) |
-| 📷 Instagram | [instagram.com/your-profile](https://instagram.com/your-profile) |
-| 💬 Discord | amna.mohsin#1234 (or your Discord link) |
+| 📧 Email | [Gmail](mailto:mohsinamna279@gmail.com) |
+| 🌐 GitHub | [github](https://github.com/amna-mohsin) |
+| 🔗 LinkedIn | [linkedin](https://www.linkedin.com/in/amna-m98/) |
 
 ---
 
-## 🛠 Setup Instructions (For Portfolio Deployment)
+## Setup Instructions (For Portfolio Deployment)
 
 ```bash
-# No build tools needed
-git clone https://github.com/amna-mohsin/portfolio.git
+# Clone the repository
+git clone https://github.com/amna-mohsin/Portfolio.git
 cd portfolio
-Open index.html in browser or deploy via Netlify/Vercel
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
