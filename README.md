@@ -4,12 +4,6 @@ Frontend Developer passionate about crafting responsive and interactive web expe
 
 ---
 
-## About Me
-
-Frontend Developer with a strong focus on creating clean, responsive, and engaging user experiences. I enjoy turning ideas into polished web interfaces. Currently working on real-world projects and JavaScript-based games to enhance my skills. I’m also learning Full Stack development using React, Node.js, and MongoDB, and always open to internships or collaborative opportunities that push me to grow.
-
----
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amna-mohsin&show_icons=true&theme=tokyonight" height="180"/>
@@ -21,6 +15,13 @@ Frontend Developer with a strong focus on creating clean, responsive, and engagi
 </p>
 
 ---
+
+## About Me
+
+Frontend Developer with a strong focus on creating clean, responsive, and engaging user experiences. I enjoy turning ideas into polished web interfaces. Currently working on real-world projects and JavaScript-based games to enhance my skills. I’m also learning Full Stack development using React, Node.js, and MongoDB, and always open to internships or collaborative opportunities that push me to grow.
+
+---
+
 
 ## Technologies I Use
 
