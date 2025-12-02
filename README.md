@@ -3,11 +3,10 @@
 Frontend Developer passionate about crafting responsive and interactive web experiences. Currently building real-world projects and exploring Full Stack development with React, Node.js, and MongoDB. Open to internships and collaborations.
 
 ---
-
 ## GitHub Stats
 <p align="center">
   <img 
-    src="hhttps://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/" 
+    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
     height="180"
   />
 </p>
@@ -19,7 +18,6 @@ Frontend Developer passionate about crafting responsive and interactive web expe
     height="180"
   />
 </p>
-
 
 ---
 
