@@ -5,14 +5,25 @@ Frontend Developer passionate about crafting responsive and interactive web expe
 ---
 
 ## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amna-mohsin&show_icons=true&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
 </p>
 
 ## Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-mohsin&layout=compact&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
+    height="180"
+  />
 </p>
+
+---
+
 
 ---
 
