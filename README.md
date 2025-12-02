@@ -8,7 +8,7 @@ Frontend Developer passionate about crafting responsive and interactive web expe
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-amna.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
     height="180"
   />
 </p>
@@ -17,15 +17,13 @@ Frontend Developer passionate about crafting responsive and interactive web expe
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-amna.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
     height="180"
   />
 </p>
 
 ---
 
-
----
 
 ## About Me
 
