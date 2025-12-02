@@ -3,21 +3,18 @@
 Frontend Developer passionate about crafting responsive and interactive web experiences. Currently building real-world projects and exploring Full Stack development with React, Node.js, and MongoDB. Open to internships and collaborations.
 
 ---
-
 ## GitHub Stats
-
 <p align="center">
   <img 
-    src="https://github-readme-stats-amna.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
     height="180"
   />
 </p>
 
 ## Top Languages
-
 <p align="center">
   <img 
-    src="https://github-readme-stats-amna.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
     height="180"
   />
 </p>
