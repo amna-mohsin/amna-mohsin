@@ -3,6 +3,7 @@
 Frontend Developer passionate about crafting responsive and interactive web experiences. Currently building real-world projects and exploring Full Stack development with React, Node.js, and MongoDB. Open to internships and collaborations.
 
 ---
+
 ## GitHub Stats
 <p align="center">
   <img 
@@ -18,6 +19,7 @@ Frontend Developer passionate about crafting responsive and interactive web expe
     height="180"
   />
 </p>
+
 
 ---
 
