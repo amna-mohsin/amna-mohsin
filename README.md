@@ -7,7 +7,7 @@ Frontend Developer passionate about crafting responsive and interactive web expe
 ## GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
+    src="hhttps://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/" 
     height="180"
   />
 </p>
