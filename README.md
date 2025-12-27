@@ -6,26 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <a href="https://github.com/amna-mohsin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amna-mohsin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/amna-mohsin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-mohsin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  </a>
-  
-  <a href="https://github.com/amna-mohsin">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=amna-mohsin&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
-  </a>
-  
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Frontend Developer** with a strong passion for creating clean, responsive, and engaging user experiences. I enjoy turning complex ideas into polished web interfaces and am constantly learning new technologies to enhance my skill set.
