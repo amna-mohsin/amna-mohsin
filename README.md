@@ -1,102 +1,102 @@
-<h1 align="center">Amna Mohsin – Frontend Developer</h1>
+<h1 align="center">👩‍💻 Amna Mohsin — Frontend Developer</h1>
 
-Frontend Developer passionate about crafting responsive and interactive web experiences. Currently building real-world projects and exploring Full Stack development with React, Node.js, and MongoDB. Open to internships and collaborations.
-
----
-## GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-</p>
-
-## Top Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" 
-    height="180"
-  />
+  Frontend Developer passionate about building clean, responsive, and interactive web applications.  
+  Currently exploring Full Stack development and open to internships, collaborations, and real-world projects.
 </p>
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight" height="180"/>
+</p>
 
-## About Me
-
-Frontend Developer with a strong focus on creating clean, responsive, and engaging user experiences. I enjoy turning ideas into polished web interfaces. Currently working on real-world projects and JavaScript-based games to enhance my skills. I’m also learning Full Stack development using React, Node.js, and MongoDB, and always open to internships or collaborative opportunities that push me to grow.
-
----
-
-
-## Technologies I Use
-
-| Technology         | Badge |
-|--------------------|-------|
-| HTML5              | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| CSS3               | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| JavaScript         | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| React              | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| Bootstrap          | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) |
-| Git & GitHub       | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-master-amna-mohsins-projects.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-## Projects
+## 🙋‍♀️ About Me
+
+I am a **Frontend Developer** with a strong focus on crafting responsive, user-friendly, and visually appealing web interfaces. I enjoy turning ideas into polished web experiences and continuously improving my skills through real-world projects.
+
+Currently, I am expanding my expertise in **Full Stack Development** while strengthening my foundations in **JavaScript, React, Python, and C++**. I am always open to learning, collaboration, and internship opportunities.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Bootstrap  
+- Tailwind CSS  
+
+### ⚙️ Programming Languages
+- JavaScript  
+- Python  
+- C++  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Netlify  
+
+---
+
+## 🚀 Projects
 
 | Project | Description | Live Link |
-|--------|-------------|-----------|
-| Rock Paper Scissors Game | A responsive and fun game with reset and score tracking | [Play Now](https://rock-paper-scissor-a.netlify.app) |
-| Portfolio Website | Personal developer portfolio | [View](https://vermillion-praline-15e750.netlify.app/) |
-| Random Quote Generator | A colorful and responsive quote generator | [View](https://random-quote-website.netlify.app/) |
-| School Website | A clean, responsive UI school website | [View](https://learnify-hub.netlify.app/) |
-| More Projects | Explore more of my work | [GitHub Profile](https://github.com/amna-mohsin) |
+|-------|-------------|-----------|
+| 🎮 Rock Paper Scissors Game | Interactive game with score tracking & reset | [Play Now](https://rock-paper-scissor-a.netlify.app) |
+| 🌐 Portfolio Website | Personal portfolio showcasing my work | [View](https://vermillion-praline-15e750.netlify.app/) |
+| 💬 Random Quote Generator | Colorful and responsive quote generator | [View](https://random-quote-website.netlify.app/) |
+| 🏫 School Website | Clean and responsive school website UI | [View](https://learnify-hub.netlify.app/) |
+| 📁 More Projects | Explore all repositories | [GitHub](https://github.com/amna-mohsin) |
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-- Full Stack Development (React, Node.js, MongoDB)
-- Responsive UI Design using Tailwind CSS
-- JavaScript Game Development
-- GitHub Collaboration & Workflow
-- Backend APIs with Express.js
-
----
-
-## Achievements
-
-- Created 3+ frontend mini-projects using HTML, CSS, and JavaScript  
-- Actively improving GitHub presence and learning via open-source  
-- Enrolled in the Saylani Web & App Development Course  
+- Full Stack Development (React, Node.js, MongoDB)  
+- Backend APIs with Express.js  
+- Advanced React Concepts  
+- Tailwind CSS for scalable UI  
+- GitHub collaboration & open-source workflows  
 
 ---
 
-## Collaboration Interests
+## 🏆 Achievements
 
-- UI/UX Enhancement for Web Interfaces  
-- JavaScript Game Projects  
-- Beginner-Friendly Open Source Contributions  
-- Real Portfolio Site Development with Backend Integration  
-
----
-
-## Contact & Social Links
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [mohsinamna279@gmail.com](mailto:mohsinamna279@gmail.com) |
-| 🌐 GitHub | [amna-mohsin](https://github.com/amna-mohsin) |
-| 🔗 LinkedIn | [amna-m98](https://www.linkedin.com/in/amna-m98/) |
+- Built multiple frontend projects using HTML, CSS, and JavaScript  
+- Strong foundation in **Python and C++**  
+- Actively improving GitHub presence and collaboration skills  
+- Enrolled in **Saylani Web & App Development Program**  
 
 ---
 
-## Portfolio Setup Instructions
+## 🤝 Collaboration Interests
+
+- Frontend & UI/UX projects  
+- JavaScript & React applications  
+- Beginner-friendly open-source contributions  
+- Portfolio-level full stack projects  
+
+---
+
+## ⚙️ Setup & Installation Instructions
 
 ```bash
 # Clone the repository
 git clone https://github.com/amna-mohsin/Portfolio.git
-cd portfolio
+
+# Navigate to the project directory
+cd Portfolio
 
 # Install dependencies
 npm install
