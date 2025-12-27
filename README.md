@@ -10,11 +10,17 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amna-m98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)
+  <a href="https://github.com/amna-mohsin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amna-mohsin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amna-m98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
+  <a href="https://github.com/amna-mohsin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna-mohsin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </a>
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=amna-m98&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD)
+  <a href="https://github.com/amna-mohsin">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=amna-mohsin&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="GitHub Streak" />
+  </a>
   
 </div>
 
@@ -184,7 +190,9 @@ I'm interested in collaborating on:
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amna-m98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=70A5FD)
+  <a href="https://github.com/amna-mohsin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amna-mohsin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=70A5FD&area=true" alt="GitHub Activity Graph" />
+  </a>
   
 </div>
 
@@ -192,7 +200,7 @@ I'm interested in collaborating on:
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=amna-m98&color=70A5FD&style=for-the-badge&label=Profile+Views)
+  <img src="https://komarev.com/ghpvc/?username=amna-mohsin&color=70A5FD&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
   <p>⭐️ From <a href="https://github.com/amna-mohsin">amna-mohsin</a></p>
   
